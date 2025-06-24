@@ -1,0 +1,156 @@
+{
+  "packageUrl": "https://bach29072004.github.io/mygame-assets/android/bundleTest/1.0.0.2",
+  "version": "1.0.0.2",
+  "searchPaths": [
+    "hotupdate_storage"
+  ],
+  "remoteManifestUrl": "https://bach29072004.github.io/mygame-assets/android/bundleTest/project.manifest",
+  "remoteVersionUrl": "https://bach29072004.github.io/mygame-assets/android/bundleTest/version.manifest",
+  "assets": {
+    "cc.config.json": {
+      "size": 1384,
+      "md5": "47d6ac1eddeb84f0b132e3623d134bd0",
+      "compressed": false
+    },
+    "03fc91740.json": {
+      "size": 291,
+      "md5": "304a07eb7567a05dd99188fa37501c55",
+      "compressed": false
+    },
+    "480f9416-7b51-455c-97d5-c74b3ec24960.json": {
+      "size": 72,
+      "md5": "a253314ec7107d95345d7fc89b8d7bb5",
+      "compressed": false
+    },
+    "480f9416-7b51-455c-97d5-c74b3ec24960@f9941.json": {
+      "size": 570,
+      "md5": "5c8250c0a40cda33edc688b1203351b3",
+      "compressed": false
+    },
+    "71e428f0-7b96-4df6-acda-c9184471416a.json": {
+      "size": 72,
+      "md5": "a253314ec7107d95345d7fc89b8d7bb5",
+      "compressed": false
+    },
+    "71e428f0-7b96-4df6-acda-c9184471416a@f9941.json": {
+      "size": 560,
+      "md5": "af822301d2220af06262894d2280bfb9",
+      "compressed": false
+    },
+    "7462db2e-c5fe-453a-9d41-1e5272f46506.json": {
+      "size": 82,
+      "md5": "a391a616da55a82ee9eb072118d0d36a",
+      "compressed": false
+    },
+    "7462db2e-c5fe-453a-9d41-1e5272f46506@f9941.json": {
+      "size": 705,
+      "md5": "00e0b96eaa8c0d0df305cfd5317bc812",
+      "compressed": false
+    },
+    "85d18ba7-007d-48f4-94ef-a1267204a95b.json": {
+      "size": 82,
+      "md5": "a391a616da55a82ee9eb072118d0d36a",
+      "compressed": false
+    },
+    "85d18ba7-007d-48f4-94ef-a1267204a95b@f9941.json": {
+      "size": 544,
+      "md5": "78ef1a9797357d5bd91abc7c5e9a1816",
+      "compressed": false
+    },
+    "bb529f03-00dc-42c7-bf4e-7b79d194155a.json": {
+      "size": 82,
+      "md5": "a391a616da55a82ee9eb072118d0d36a",
+      "compressed": false
+    },
+    "bb529f03-00dc-42c7-bf4e-7b79d194155a@f9941.json": {
+      "size": 666,
+      "md5": "372d70899fd37a5ce5478f63d04fcb57",
+      "compressed": false
+    },
+    "decbc270-00d7-49b2-b645-fbd9512e3377.json": {
+      "size": 82,
+      "md5": "a391a616da55a82ee9eb072118d0d36a",
+      "compressed": false
+    },
+    "decbc270-00d7-49b2-b645-fbd9512e3377@f9941.json": {
+      "size": 663,
+      "md5": "bf4b5c4e521dacab54f59c27ad7b2402",
+      "compressed": false
+    },
+    "index.js": {
+      "size": 608,
+      "md5": "426bb50acedac71ff32d22b55ddead60",
+      "compressed": false
+    },
+    "480f9416-7b51-455c-97d5-c74b3ec24960.png": {
+      "size": 181427,
+      "md5": "59e399f249c8c8017880aaf3c377f65f",
+      "compressed": false
+    },
+    "71e428f0-7b96-4df6-acda-c9184471416a.png": {
+      "size": 122055,
+      "md5": "720712c48d43230fdd40770c3de607a5",
+      "compressed": false
+    },
+    "7462db2e-c5fe-453a-9d41-1e5272f46506.astc": {
+      "size": 3152,
+      "md5": "b13b0b675598a5c9d23276141b7f9e25",
+      "compressed": false
+    },
+    "7462db2e-c5fe-453a-9d41-1e5272f46506.jpg": {
+      "size": 1931,
+      "md5": "9f0a73a79369f0e661afbebdfacd156f",
+      "compressed": false
+    },
+    "7462db2e-c5fe-453a-9d41-1e5272f46506.pkm": {
+      "size": 5848,
+      "md5": "1d9da8381911a01c79488db674bca6cf",
+      "compressed": false
+    },
+    "85d18ba7-007d-48f4-94ef-a1267204a95b.astc": {
+      "size": 2064,
+      "md5": "3b29bfd27143c8ed5707deb6a81322ed",
+      "compressed": false
+    },
+    "85d18ba7-007d-48f4-94ef-a1267204a95b.jpg": {
+      "size": 2082,
+      "md5": "79e4c7aa9aba4d1bf4d306911ebf0028",
+      "compressed": false
+    },
+    "85d18ba7-007d-48f4-94ef-a1267204a95b.pkm": {
+      "size": 4112,
+      "md5": "40cde784a0b3480d4c7c84853b71075f",
+      "compressed": false
+    },
+    "bb529f03-00dc-42c7-bf4e-7b79d194155a.astc": {
+      "size": 416,
+      "md5": "638792cfc6c0698ec0c8185cad35b314",
+      "compressed": false
+    },
+    "bb529f03-00dc-42c7-bf4e-7b79d194155a.jpg": {
+      "size": 898,
+      "md5": "34df4fa1f022a534954cfe562dde537c",
+      "compressed": false
+    },
+    "bb529f03-00dc-42c7-bf4e-7b79d194155a.pkm": {
+      "size": 664,
+      "md5": "114025552af73bf9a13b8d8624c2edce",
+      "compressed": false
+    },
+    "decbc270-00d7-49b2-b645-fbd9512e3377.astc": {
+      "size": 416,
+      "md5": "b4886da960dc86b6ab3050b3437d26ff",
+      "compressed": false
+    },
+    "decbc270-00d7-49b2-b645-fbd9512e3377.jpg": {
+      "size": 896,
+      "md5": "7e241e0409394a238f0822d218496197",
+      "compressed": false
+    },
+    "decbc270-00d7-49b2-b645-fbd9512e3377.pkm": {
+      "size": 664,
+      "md5": "2339724d2b399b407a23ebaa23be194e",
+      "compressed": false
+    }
+  }
+}
