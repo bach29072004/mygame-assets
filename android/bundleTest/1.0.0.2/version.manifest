@@ -1,6 +1,6 @@
 {
   "packageUrl": "https://bach29072004.github.io/mygame-assets/android/bundleTest/1.0.0.2",
   "version": "1.0.0.2",
-  "remoteManifestUrl": "https://bach29072004.github.io/mygame-assets/android/bundleTest/project.manifest",
-  "remoteVersionUrl": "https://bach29072004.github.io/mygame-assets/android/bundleTest/version.manifest"
+  "remoteManifestUrl": "https://bach29072004.github.io/mygame-assets/android/bundleTest/1.0.0.2/project.manifest",
+  "remoteVersionUrl": "https://bach29072004.github.io/mygame-assets/android/bundleTest/1.0.0.2/version.manifest"
 }

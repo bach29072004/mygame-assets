@@ -4,8 +4,8 @@
   "searchPaths": [
     "hotupdate_storage"
   ],
-  "remoteManifestUrl": "https://bach29072004.github.io/mygame-assets/android/bundleTest/project.manifest",
-  "remoteVersionUrl": "https://bach29072004.github.io/mygame-assets/android/bundleTest/version.manifest",
+  "remoteManifestUrl": "https://bach29072004.github.io/mygame-assets/android/bundleTest/1.0.0.2/project.manifest",
+  "remoteVersionUrl": "https://bach29072004.github.io/mygame-assets/android/bundleTest/1.0.0.2/version.manifest",
   "assets": {
     "cc.config.json": {
       "size": 1384,
@@ -150,6 +150,16 @@
     "decbc270-00d7-49b2-b645-fbd9512e3377.pkm": {
       "size": 664,
       "md5": "2339724d2b399b407a23ebaa23be194e",
+      "compressed": false
+    },
+    "project.manifest": {
+      "size": 5005,
+      "md5": "b8758bb69cb640628903cf6cd471d780",
+      "compressed": false
+    },
+    "version.manifest": {
+      "size": 330,
+      "md5": "edf05dcd9f884c91fa4b13340772d4d1",
       "compressed": false
     }
   }
