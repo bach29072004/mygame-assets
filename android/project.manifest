@@ -28,8 +28,8 @@
       "compressed": false
     },
     "06d0b26a3.json": {
-      "size": 3315,
-      "md5": "6afd4e0e06d3f7ebc49f1312746961b5",
+      "size": 3597,
+      "md5": "956d68f5f31b280000addbc7ab62eee6",
       "compressed": false
     },
     "57520716-48c8-4a19-8acf-41c9f8777fb0.json": {
@@ -240,6 +240,11 @@
     "system.bundle.js": {
       "size": 8319,
       "md5": "f45da0108c6bc0747a05f0f669023838",
+      "compressed": false
+    },
+    "version.manifest": {
+      "size": 297,
+      "md5": "60a055e8918a21ef850ef9eb7e703f90",
       "compressed": false
     }
   }
